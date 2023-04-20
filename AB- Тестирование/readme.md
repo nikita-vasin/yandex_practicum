@@ -42,18 +42,18 @@
 - `пересечение тестовой аудитории с конкурирующим тестом;`
 - `совпадение теста и маркетинговых событий, другие проблемы временных границ теста.`
 ## Используемые библиотеки
-- `import pandas as pd`
-- `import datetime as dt`
-- `import seaborn as sns`
-- `import numpy as np`
-- `import math as mth`
-- `from scipy import stats as st`
-- `import matplotlib.pyplot as plt`
-- `import plotly.graph_objects as go`
-- `from pandas.plotting import register_matplotlib_converters`
-- `import warnings`
-- `warnings.simplefilter('ignore')`
-- `import folium`
-- `from folium import Map, Marker, Choropleth`
-- `from folium.plugins import MarkerCluster`
-- `import json`
+- import pandas as pd
+- import datetime as dt
+- import seaborn as sns
+- import numpy as np
+- import math as mth
+- from scipy import stats as st
+- import matplotlib.pyplot as plt
+- import plotly.graph_objects as go
+- from pandas.plotting import register_matplotlib_converters
+- import warnings
+- warnings.simplefilter('ignore')
+- import folium
+- from folium import Map, Marker, Choropleth
+- from folium.plugins import MarkerCluster
+- import json
